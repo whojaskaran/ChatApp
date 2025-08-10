@@ -25,6 +25,8 @@ npm install
 cd frontend
 npm install
 
+###Create .ENV file and add following
+ 
 MONGODB_URI=your_mongodb_connection_string
 PORT=5001
 JWT_SECRET=your_jwt_secret
